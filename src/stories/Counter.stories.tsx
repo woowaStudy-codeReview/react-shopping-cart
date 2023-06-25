@@ -1,4 +1,4 @@
-import { Counter } from "../components/productCard/Counter";
+import { Counter } from "../components/product/Counter";
 import { Meta, StoryObj } from "@storybook/react";
 
 const meta = {

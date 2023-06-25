@@ -7,8 +7,9 @@ function CartPage() {
   return (
     <Layout>
       <Style.Container>
-        <Style.Title>장바구니</Style.Title>
         <Suspense>
+          <Style.Title>장바구니</Style.Title>
+
           <CartCardList />
         </Suspense>
       </Style.Container>
